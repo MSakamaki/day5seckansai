@@ -5,7 +5,7 @@
 
 ```html
 
-<img src="" onerror="alert('hey!')" />
+<img src=" " onerror="alert('hey!')" />
 
 ```
 
